@@ -1,4 +1,4 @@
-# seqUtils
+# seqProcessing
 Bioinformatic utilities for nucleotide sequences. Written in Bash, perl or python.
 
 <h2>Contents</h2>
